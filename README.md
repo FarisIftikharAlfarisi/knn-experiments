@@ -1,4 +1,6 @@
-# Eksperimen Variasi Algoritma KNN
+<h2 align="center">Eksperimen Variasi Algoritma KNN</h2>
+
+
 
 ## Tentang Proyek
 Proyek ini mengeksplorasi berbagai modifikasi algoritma K-Nearest Neighbors (KNN) untuk meningkatkan akurasi klasifikasi. Kami menguji 4 varian algoritma dan membandingkannya dengan KNN standar.
